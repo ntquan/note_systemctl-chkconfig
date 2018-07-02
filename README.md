@@ -36,5 +36,5 @@ chkconfig command does not support anymore. It is replaced by systemctl
 # systemctl status <servicename>.service
 ```
 
-
+ref: https://www.tecmint.com/chkconfig-command-examples/
 [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
